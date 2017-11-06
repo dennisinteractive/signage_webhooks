@@ -1,0 +1,5 @@
+name: Signage Webhooks
+type: module
+description: Webhooks integration for the Signage module
+core: 8.x
+package: Dennis
